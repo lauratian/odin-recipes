@@ -4,6 +4,6 @@ A basic recipe website for the Odin Project
 The purpose of this project is to create a basic recipe website. Additionally I will practice basic HTML development practices such as tags, attributes, nesting, and basic website structure.
 
 Sources used:
-The Odin Project at url: <a href="./recipes/korean-beef-bowl.html">Korean Beef Bowl</a>
+<a href="https://www.theodinproject.com/lessons/foundations-recipes">The Odin Project</a>
 
-Recipes and images at url: <a href="./recipes/korean-beef-bowl.html">Korean Beef Bowl</a>
+<a href="https://www.allrecipes.com/">Recipes and Images</a>
